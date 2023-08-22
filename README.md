@@ -1,4 +1,3 @@
-![image](https://github.com/434264329/pysound/assets/69955056/39380a05-b658-40fe-b765-c97c586495aa)# pysound
 一些python写的"歌曲"都放在这里  
 一首是国际歌  
 另一首是小星星  
